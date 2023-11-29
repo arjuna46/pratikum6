@@ -1,4 +1,5 @@
-“# Latihan 6”
+## DESKRIPSI
+
 Berikan deskripsi singkat yang menjelaskan apa, mengapa, dan bagaimana proyek Anda. Gunakan pertanyaan-pertanyaan berikut sebagai panduan:
 
 - Apa motivasimu?
