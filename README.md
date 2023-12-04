@@ -35,3 +35,7 @@ Jika Anda mengikuti tutorial, sertakan juga tautan ke tutorial tersebut di sini.
 ## Lisensi
 
 Bagian terakhir dari file README berkualitas tinggi adalah lisensinya. Hal ini memungkinkan pengembang lain mengetahui apa yang dapat dan tidak dapat mereka lakukan terhadap proyek Anda. Jika Anda memerlukan bantuan memilih lisensi
+
+## FLOWCHAT
+
+![WhatsApp Image 2023-12-04 at 22 21 53](https://github.com/arjuna46/pratikum6/assets/147571007/9c2e83ea-e5eb-4dd2-8d0b-a3c73c4fe312)
